@@ -1,1 +1,2 @@
-# Passwort-Generator-Java-
+# Passwort-Generator (Java)
+Choose your passwort!
